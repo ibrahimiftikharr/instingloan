@@ -1,42 +1,63 @@
-InstingLoan is a mobile application for managing personal loans and investments. The app provides separate interfaces for two types of users: Borrowers and Investors. It allows borrowers to explore loan categories, apply for loans, and track their loan status. Simultaneously, it allows investors to fund loan categories by investing specific amounts. Users can connect wallet and send money to anyone on the app. Transaction history records every movement. It integrates secure authentication, AI chat support, financial wallet management, and analytics to offer a robust platform for micro-loan services.
+# 📱 InstingLoan
 
-Features
+**InstingLoan** is a mobile application for managing personal **loans** and **investments**. The app offers two tailored experiences for users — **Borrowers** and **Investors**. It combines wallet-based transactions, real-time loan tracking, secure authentication, and AI-powered assistance, making it a complete micro-loan platform.
 
-Borrower Module
+---
 
-•Loan Application
-Borrower can browse and apply for available loan options directly from the homepage.
+## 🚀 Features
 
-•Loan Status
-Separate screens for Approved Loans and Pending Loans.
+### 🔵 Borrower Module
 
-•Search Functionality
-Real-time search with results navigable to detailed loan pages.
+- **Loan Application**
+  - Browse and apply for loan options directly from the homepage.
 
-•Wallet Integration
-Send/receive funds and connect external wallets.
+- **Loan Status**
+  - View approved and pending loans in separate, organized sections.
 
-•Transaction History
-Filtered and categorized view of all wallet and loan-related transactions.
+- **Search Functionality**
+  - Real-time search for loans, with navigable results to detailed pages.
 
-•Chatbot Assistance
-AI-powered chatbot for loan guidance using an API.
+- **Wallet Integration**
+  - Connect external wallets and send/receive money easily.
 
-•Firebase Auth
-Secure sign up/sign in functionality.
+- **Transaction History**
+  - Filtered and categorized records of all transactions.
 
-Investor Module
-•Sign Up/Sign In
-Authenticated access using Firebase.
+- **Chatbot Assistance**
+  - AI-powered chatbot using API for real-time loan support and guidance.
 
-•Wallet Setup
-Connect wallet and initialize investment balance.
+- **Firebase Authentication**
+  - Secure sign-up and sign-in system with Firebase.
 
-•Investment in Loan Pool
-Invest in a central pool; when pool ≥ requested amount, loans are auto-approved.
+---
 
-•Reward & Profit Display
-Dashboard showing invested amount, profits earned, and ROI.
+### 🟢 Investor Module
 
-•Transaction History
-Full record of all investments and rewards.
+- **Sign Up / Sign In**
+  - Secure access using Firebase Auth.
+
+- **Wallet Setup**
+  - Connect your wallet and initialize investment balance.
+
+- **Investment in Loan Pool**
+  - Invest in a central loan pool. Loans are auto-approved once the pool meets the requested amount.
+
+- **Reward & Profit Dashboard**
+  - View investment performance including ROI, total investment, and rewards.
+
+- **Transaction History**
+  - Full investment and earnings history with wallet-level detail.
+
+---
+
+## 🔐 Security & Tech Stack
+
+- Flutter (Frontend)
+- Firebase (Auth & Database)
+- Google Wallet / MetaMask Integration
+- REST API for AI Chatbot
+- Secure Transaction Recording
+
+---
+
+> Built with ❤️ to simplify peer-to-peer micro-loan management.

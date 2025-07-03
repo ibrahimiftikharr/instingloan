@@ -7,11 +7,11 @@
 
 ## 🖼️ App Screenshots
 
-| Borrower Home | Loan Request | Loan Details | Transaction History |
+| Login/Register | Borrower Home | Loan Application | Loan Repayment |
 |---------------|--------------|--------------|---------------------|
 | ![1](assets/git_description_pictures/1.png) | ![2](assets/git_description_pictures/2.png) | ![3](assets/git_description_pictures/3.png) | ![4](assets/git_description_pictures/4.png) |
 
-| Investor Dashboard | Wallet | Chatbot | Login/Register |
+| Wallet | Send/Receive Money | Invest | History & Chatbot |
 |--------------------|--------|---------|----------------|
 | ![5](assets/git_description_pictures/5.png) | ![6](assets/git_description_pictures/6.png) | ![7](assets/git_description_pictures/7.png) | ![8](assets/git_description_pictures/8.png) |
 
